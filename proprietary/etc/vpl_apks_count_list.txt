@@ -1,0 +1,2 @@
+/system/preload/SmartSwitch/SmartSwitch.apk
+/system/preload/NaverV_N/NaverV_N.apk
